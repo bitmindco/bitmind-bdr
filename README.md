@@ -1,6 +1,6 @@
 #bitmind-bdr
 
-![bitmind-bdr](badget.png)
+![bitmind-bdr](https://raw.githubusercontent.com/bitmindco/bitmind-bdr/master/badge.png)
 
 ## Bitmind Digital Registry using the Bitcoin Blockchain as a persistence layer (testnet)
 

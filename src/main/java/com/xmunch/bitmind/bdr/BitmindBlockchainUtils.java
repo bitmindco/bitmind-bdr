@@ -22,7 +22,7 @@ public class BitmindBlockchainUtils {
     protected static void createBlockCypherContext() {
         blockCypherContext = new BlockCypherContext(BlockCypherRestfulConstants.VERSION_V1,
                 BlockCypherRestfulConstants.CURRENCY_BTC,
-                BlockCypherRestfulConstants.NETWORK_MAIN, "4fdb49ccd4f20bda280f791657555f2e"); //BC_API_TOKEN
+                BlockCypherRestfulConstants.NETWORK_MAIN, "BC_API_TOKEN");
     }
 
     private static void setProxySettings() {

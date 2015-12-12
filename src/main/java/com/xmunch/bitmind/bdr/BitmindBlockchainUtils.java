@@ -8,7 +8,7 @@ import com.blockcypher.utils.BlockCypherRestfulConstants;
 public class BitmindBlockchainUtils {
 
     protected static final String PRIVATE_KEY = "YOUR_PRIVATE_KEY";
-    protected static final String API_TOKEN = "BC_API_TOKEN";
+    protected static final String API_TOKEN = "4fdb49ccd4f20bda280f791657555f2e";
 
     protected static BlockCypherContext blockCypherContext;
 
